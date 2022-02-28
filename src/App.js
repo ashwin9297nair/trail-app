@@ -1,6 +1,6 @@
 
 import './App.css';
-import './CustomStyle.css'
+
 
 import 'primereact/resources/primereact.min.css';
 import 'primeicons/primeicons.css';

@@ -8,6 +8,7 @@
     "@testing-library/user-event": "^13.5.0",
     "axios": "^0.26.0",
     "chart.js": "^3.7.1",
+    "moment": "^2.29.1",
     "primeflex": "^3.0.1",
     "primeicons": "^5.0.0",
     "primereact": "^6.6.0",
